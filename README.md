@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/ITS2019-2020/Pipeline%20Test/_apis/build/status/kipirmykhailo.mslearn-tailspin-spacegame-web-models?branchName=master)](https://dev.azure.com/ITS2019-2020/Pipeline%20Test/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
@@ -29,3 +30,5 @@ Privacy information can be found at https://privacy.microsoft.com/en-us/
 
 Microsoft and any contributors reserve all other rights, whether under their respective copyrights, patents,
 or trademarks, whether by implication, estoppel or otherwise.
+
+[![Build Status](https://dev.azure.com/ITS2019-2020/Pipeline%20Test/_apis/build/status/kipirmykhailo.mslearn-tailspin-spacegame-web-models?branchName=master)](https://dev.azure.com/ITS2019-2020/Pipeline%20Test/_build/latest?definitionId=2&branchName=master)
